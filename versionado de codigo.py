@@ -1,1 +1,1 @@
-print("hola ITEC 2025")
+print("hola ITEC 2025 parte 2")
